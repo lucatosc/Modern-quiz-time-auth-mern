@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AashviKothari/QuizPortal.git"
+    "url": "git+https://github.com/lucatosc"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AashviKothari/QuizPortal/issues"
+    "url": "https://github.com/lucatosc"
   },
-  "homepage": "https://github.com/AashviKothari/QuizPortal#readme"
+  "homepage": "https://github.com/lucatosc"
 }
